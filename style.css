@@ -1,0 +1,40 @@
+img{
+    max-width: 100%;
+}
+.header-section{
+    background-color:#e3f2fd;
+}
+span.logo-icon img {
+    width: 93%;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    text-align: right;
+    display: inline-block;
+    margin-left: 22px;
+}
+.form-control {
+    margin-left: 322px;
+}
+img.h-logo {
+    width: 50px;
+}
+.carousel-inner {
+    height: 550px;
+}
+.slider{
+    margin: 111px 0;
+}
+button.accordion-button.collapsed {
+    color: #007bff;
+    width: 100%;
+    text-align: left;
+    border: none;
+ 
+}
+ 
+.schol {
+    max-height: 300px;
+    overflow: scroll;
+    position: relative;
+}
